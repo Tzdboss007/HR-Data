@@ -8,7 +8,7 @@ The HR Data is a record of survey taken by members of staffs in an organization,
 In this project i seek to know the root cause of the high attrition rate, factors contributing to the attrition rate and the correlation between attrition and some other factors that may be influencing the exit of staffs in the company.
  
 ---
-## **Project Outline**
+## Project Outline
 - HR-Data-Documentation [HR Data Documentation](#hr-data-documentation)
 - Project Overview [Project Overview](#project-overview)
 - Data Source [Data Source](#data-source)
@@ -20,3 +20,20 @@ In this project i seek to know the root cause of the high attrition rate, factor
 
 ## Data Source 
 The source of the HR data used in this Analysis is from skilhavest practical class  [ClICK HERE TO DOWNLOAD](https://tinyurl.com/2udjsy98) 
+
+---
+
+## Tools Used 
+ tool used for both the Analysis and Visulaisation of the above data Includes 
+- PowerBI
+- Power Query
+- Google sheet [click Here To View](https://tinyurl.com/2udjsy98)
+---
+## Data cleaning 
+In a bid to clean the data for onward use, some basic operations were carried out on the data before use
+
+- Promotion of row header: The first roll was promoted to make up for the header which was not indicated in the raw data
+- Change data type : The data types of some certain columns were changed from the the default starng values to Numbers
+- Addition of conditional columns: In other to effectively sort the age range colunm in chronological other during the analysis a 
+  conditional column was created. 
+- 
