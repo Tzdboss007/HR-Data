@@ -39,3 +39,4 @@ In a bid to clean the data for onward use, some basic operations were carried ou
   conditional column was created. 
 ---
 ## Data Analysis
+The data used in this analysis has been partially cleaned, in my analysis i tried to 
