@@ -54,3 +54,5 @@ Attrition Rate = sum('HR data'[Attrition Count])/sum('HR data'[Employee Count])
 - I also compared between atrrition, education and gender
 - I also made comparison between attrition, age band and Gender
 ---
+
+Findin
