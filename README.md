@@ -40,6 +40,7 @@ In a bid to clean the data for onward use, some basic operations were carried ou
 ---
 ## Data Analysis
 The data used in this analysis has been partially cleaned, in my analysis i tried to first find the total number of employees in the company then i proceeded to get the number of retained staffs, i was also able to get the attriion count then from the attrition count and number of employee i calculated the rate of attrition in the organization and also find the average age of employee in the organization. 
+
 The number of retained staff was calaculated using the DAX function
 ```
 Retained Staff = sum('HR data'[Employee Count])-sum('HR data'[Attrition Count])
