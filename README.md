@@ -39,4 +39,7 @@ In a bid to clean the data for onward use, some basic operations were carried ou
   conditional column was created. 
 ---
 ## Data Analysis
-The data used in this analysis has been partially cleaned, in my analysis i tried to 
+The data used in this analysis has been partially cleaned, in my analysis i tried to first find the total number of employees in the company then i proceeded to get the number of retained staffs, i was also able to get the attriion count then from the attrition count and number of employee i calculated the rate of attrition in the organization and also find the average age of employee in the organization. The rate of attrition was calculated using the DAX function to calculate the rate of attrition
+```
+Attrition Rate = sum('HR data'[Attrition Count])/sum('HR data'[Employee Count])
+```
