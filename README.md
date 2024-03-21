@@ -49,4 +49,7 @@ The rate of attrition was calculated using the DAX function
 ```
 Attrition Rate = sum('HR data'[Attrition Count])/sum('HR data'[Employee Count])
 ```
-
+- I tried to check for job satisfaction by job role and attrition count by department
+- I also tried to see the correlation of attrition by education and marital status
+- I also compared between atrrition, education and gender
+- I also made comparison between attrition, age band and Gender 
