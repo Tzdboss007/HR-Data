@@ -14,7 +14,7 @@ In this project i seek to know the root cause of the high attrition rate, factor
 - Data Source [Data Source](#data-source)
 - Tools Used  [Tools Used](#tools-used)
 - Data cleaning [Data cleaning](#data-cleaning)
-- Data Source [Data Analysis](#data-analysis)
+- Data Analysis [Data Analysis](#data-analysis)
 - Conclusion and Findings [Conclusion and Findings](#conclusion-and-findings)
 
 ---
@@ -37,4 +37,5 @@ In a bid to clean the data for onward use, some basic operations were carried ou
 - Change data type : The data types of some certain columns were changed from the the default starng values to Numbers
 - Addition of conditional columns: In other to effectively sort the age range colunm in chronological other during the analysis a 
   conditional column was created. 
-- 
+---
+# Data Analysis
