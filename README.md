@@ -12,7 +12,8 @@ In this project i seek to know the root cause of the high attrition rate, factor
 - HR-Data-Documentation [HR Data Documentation](#hr-data-documentation)
 - Project Overview [Project Overview](#project-overview)
 - Data Source [Data Source](#data-source)
-- Tools Used  [Tools Used](tools-used)
+- Tools Used  [Tools Used](#tools-used)
+- Data cleaning [Data cleaning](#data-cleaning)
 - Data Source [Data Analysis](#data-analysis)
 - Conclusion and Findings [Conclusion and Findings](#conclusion-and-findings)
 
