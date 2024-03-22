@@ -15,7 +15,7 @@ In this project i seek to know the root cause of the high attrition rate, factor
 - Tools Used  [Tools Used](#tools-used)
 - Data cleaning [Data cleaning](#data-cleaning)
 - Data Analysis [Data Analysis](#data-analysis)
-- Conclusion and Findings [Conclusion and Findings](#conclusion-and-findings)
+- Findings And Conclusion [Findings And Conclusion](#findings-and-conclusion)
 
 ---
 
@@ -55,7 +55,7 @@ Attrition Rate = sum('HR data'[Attrition Count])/sum('HR data'[Employee Count])
 - I also made comparison between attrition, age band and Gender
 ---
 
-Findings And conclusion
+Findings And Conclusion
 
 ![](HR1.JPG)
 
