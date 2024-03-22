@@ -56,6 +56,7 @@ Attrition Rate = sum('HR data'[Attrition Count])/sum('HR data'[Employee Count])
 ---
 
 Findings And conclusion
-![](HR 1.JPG)
 
-![](HR 2.JPG)
+![](HR1.JPG)
+
+![](HR2.JPG)
