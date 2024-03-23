@@ -52,10 +52,12 @@ Attrition Rate = sum('HR data'[Attrition Count])/sum('HR data'[Employee Count])
 - I tried to check for job satisfaction by job role and attrition count by department
 - I also tried to see the correlation between attrition by education and marital status
 - I tried to see the relationship between attrition, education, and gender 
-- And the relasionship between attrition, age band, and Gender
+- And the relationship between attrition, age band, and Gender
 ---
 
 Findings And Conclusion
+The dashboard below shows the results of the analysis carried out on the HR data. From  the dashboard, we have a total of 1470 total employees and 1233 retained employees. Also, we have a total of 237 attrition which accounted for the 16% attrition rate and an average age of 37 years.
+The following was deduced from the analysis as shown on the dashboard using a pie chart the attrition count by the department the R&D department with 133 employees attrition and the sales department coming second with 92 employees while the HR has the least number with just 12 employees.
 
 ![](HR1.JPG)
 
