@@ -39,7 +39,7 @@ In a bid to clean the data for onward use, some basic operations were carried ou
   conditional column was created. 
 ---
 ## Data Analysis
-The data used in this analysis has been partially cleaned, in my analysis I tried to first find the total number of employees in the company then I proceeded to get the number of retained staff, I was also able to get the attrition count then from the attrition count and number of employee i calculated the rate of attrition in the organization and also find the average age of an employee in the organization. 
+The data used in this analysis has been partially cleaned, in my analysis I tried to find the total number of employees in the company then I proceeded to get the number of retained staff, I was also able to get the attrition count then from the attrition count and number of employee I calculated the rate of attrition in the organization and also find the average age of an employee in the organization. 
 
 The number of retained staff was calculated using the DAX function
 ```
