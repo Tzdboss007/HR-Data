@@ -56,12 +56,21 @@ Attrition Rate = sum('HR data'[Attrition Count])/sum('HR data'[Employee Count])
 ---
 
 ## Findings And Conclusion
-- The dashboard below shows the results of the analysis carried out on the HR data. From  the dashboard, we have a total of 1470 total employees and 1233 retained employees. Also, we have a total of 237 attrition which accounted for the 16% attrition rate and an average age of 37 years.
-The following was deduced from the analysis as shown on the dashboard using a pie chart the attrition count by the department the R&D department with 133 employees attrition and the sales department coming second with 92 employees while the HR has the least number with just 12 employees.
-On the other hand, the attrition count by Education and Gender shows that more males are leaving the organization coupled with the fact that there are more of these males with advanced degrees than their female counterparts This may be attributed to the need to get a better offer in other to prepare for the future(starting a family). On the attrition count by age grade and gender, we have employees from the age bracket 25 - 34 who are Males leaving the organization, this could also be attributed to the fact that young adults who are low-income earners in the organization and who have hopes of getting a better offer would prefer to look else where they feel satisfied.
-For the attrition count by education and marital status, we have more singles who own bachelors leaving the organization and those with a doctoral degree being the least as it is easier for the single unmarried with fewer responsibilities to shuffle between jobs and explore than it is for those who already have responsibilities
-
-- For the Job role by Satisfaction we can see from the matrix chat that 
+The dashboard below shows the results of the analysis carried out on the HR data.
+- From  the dashboard, we have a total of 1470 total employees and 1233 retained employees. Also, we have a total of 237 attrition which accounted for the 16% attrition rate 
+  and an average age of 37 years.
+- The following was deduced from the analysis as shown on the dashboard using a pie chart of the attrition count by the department the R&D department with 133 employees 
+  attrition and the sales department coming second with 92 employees while the HR has the least number with just 12 employees.
+- The attrition count by Education and Gender shows that more males are leaving the organization coupled with the fact that there are more of these males with advanced 
+  degrees than their female counterparts This may be attributed to the need to get a better offer in other to prepare for the future(starting a family) standard of leaving.
+- On the attrition count by age grade and gender, we have employees from the age bracket 25 - 34 who are Males leaving the organization, this could also be attributed to the 
+  fact that young adults who are low-income earners in the organization and who have hopes of getting a better offer would prefer to look else where they feel satisfied with 
+  the work environment, work conditions as well as the salary.
+- For the attrition count by education and marital status, we have more singles who own bachelor's degrees leaving the organization and those with a doctoral degree being 
+  the least as it is easier for the single unmarried with fewer responsibilities to shuffle between jobs and explore than it is for those who already have responsibilities
+- For the Job role by Satisfaction we can see from the matrix which shows the satisfaction of employees in relation to their job role that those with job roles like the 
+  research director are  more satisfied reason could be good pay, less pressure with only two unsatisfied employees. The same can not be said for the laboratory Technicians,   as it seems they are less satisfied with their jobs as we see from the chat, the role has a total of 62 employees and following closely is the sales executives which has     57 employees, the research scientist with 47 employees and then the sales representative with 33 employees the reason for this unsatisfaction in a work environment could     be attributed to so many conditions like, too much pressure, unbalanced work life, poor pay and so on.
+  
 
 ![](HR1.JPG)
 
