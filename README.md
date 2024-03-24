@@ -71,7 +71,12 @@ The dashboard below shows the results of the analysis carried out on the HR data
 - For the Job role by Satisfaction we can see from the matrix which shows the satisfaction of employees in relation to their job role that those with job roles like the 
   research director are  more satisfied reason could be good pay, less pressure with only two unsatisfied employees. The same can not be said for the laboratory Technicians,   as it seems they are less satisfied with their jobs as we see from the chat, the role has a total of 62 employees and following closely is the sales executives which has     57 employees, the research scientist with 47 employees and then the sales representative with 33 employees the reason for this unsatisfaction in a work environment could     be attributed to so many conditions like, too much pressure, unbalanced work life, poor pay and so on.
   
-
 ![](HR1.JPG)
 
+---
 ![](HR2.JPG)
+
+- From this next chart we can see the matrix chart tries to see how education and job level gave rise to attrition, it shows that those who fall in job level 1 have more 
+  attrition numbers than other job levels as it progresses towards job level 5 with life sciences having the largest volume at level 1 and in total attrition count of 89       employees, this shows that the job level also affects other welfare packages like salaries and other incentives may be the root cause of employees who left.
+- The attrition count by Gender and Age Range shows that there are more males within the  age range 25 -34 leaving  the organization which is an indicator they are mostly 
+  the groups who are unsatisfied with their jobs
