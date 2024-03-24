@@ -77,6 +77,8 @@ The dashboard below shows the results of the analysis carried out on the HR data
 ![](HR2.JPG)
 
 - From this next chart we can see the matrix chart tries to see how education and job level gave rise to attrition, it shows that those who fall in job level 1 have more 
-  attrition numbers than other job levels as it progresses towards job level 5 with life sciences having the largest volume at level 1 and in total attrition count of 89       employees, this shows that the job level also affects other welfare packages like salaries and other incentives may be the root cause of employees who left.
+  attrition numbers than other job levels as it progresses towards job level 5 with life sciences having the largest volume at level 1 and a total attrition count of 89       employees, this shows that the job level also affects other welfare packages like salaries and other incentives may be the root cause of employees who left.
 - The attrition count by Gender and Age Range shows that there are more males within the  age range 25 -34 leaving  the organization which is an indicator they are mostly 
   the groups who are unsatisfied with their jobs
+- Attrition count by education shows that there was a high level of attrition among the employees who own bachelor's degrees with 99 employees and those with master's 
+  degrees have 58 employees and decrease down the line with doctoral degrees being the least.
