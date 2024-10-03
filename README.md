@@ -36,10 +36,10 @@ In a bid to clean the data for onward use, some basic operations were carried ou
 - Promotion of row header: The first roll was promoted to make up for the header which was not indicated in the raw data
 - Change data type: The data types of some certain columns were changed from the default string values to Numbers
 - Addition of conditional columns: To effectively sort the age range column in chronological order during the analysis a
-  conditional column was created. 
+  the conditional column was created. 
 ---
 ## Data Analysis
-The data used in this analysis has been partially cleaned, in my analysis I tried to find the total number of employees in the company then I proceeded to get the number of retained staff, I was also able to get the attrition count then from the attrition count and number of employee I calculated the rate of attrition in the organization and also find the average age of an employee in the organization. 
+The data used in this analysis has been partially cleaned, in my analysis I tried to find the total number of employees in the company then I proceeded to get the number of retained staff, I was also able to get the attrition count from the attrition count and number of employee I calculated the rate of attrition in the organization and also find the average age of an employee in the organization. 
 
 The number of retained staff was calculated using the DAX function
 ```
